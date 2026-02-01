@@ -5,7 +5,7 @@
 
 #### Este proyecto consiste en una aplicación de escritorio desarrollada en C# que permite capturar las cuatro notas de un estudiante, calcular el promedio y determinar si el estudiante aprueba, va a completivo, extraordinario o reprueba, aplicando las reglas establecidas para cada caso.
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 Lenguaje: C#
 
@@ -15,7 +15,7 @@ Base de datos: No aplica
 
 Entorno o IDE: Visual Studio
 
-Imágenes de la ejecución del proyecto
+## Imágenes de la ejecución del proyecto
 
 <img width="1366" height="768" alt="cl1" src="https://github.com/user-attachments/assets/34ca9d7e-75e2-4ae4-9b77-d59d47336eba" />
 
