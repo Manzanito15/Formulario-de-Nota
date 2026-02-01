@@ -1,4 +1,4 @@
-Calificacion Estudiantil
+Mi programa Calificacion Estudiantil
 (<img width="1366" height="768" alt="cl1" src="https://github.com/user-attachments/assets/34ca9d7e-75e2-4ae4-9b77-d59d47336eba" />
 )
 
@@ -10,5 +10,6 @@ Herramientas utilizadas: Aplicación de Windows Forms .Net.
 
 ![Campos de el programa lleno] (<img width="1366" height="768" alt="cl2" src="https://github.com/user-attachments/assets/3d2a494f-e539-4904-8086-1f1f52e4c03d" />
 )
+
 ![El promedio que saco el estudiante] (<img width="1360" height="768" alt="cl3" src="https://github.com/user-attachments/assets/b6b9e623-e34b-422a-be53-d6704d2194b8" />
 )
