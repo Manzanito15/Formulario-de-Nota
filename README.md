@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Nombre del Proyecto:  Sistema de Cálculo de Notas
 ### Sistema de Cálculo de Notas
 
 ## Descripción
