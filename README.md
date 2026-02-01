@@ -1,4 +1,5 @@
 # Nombre del Proyecto
+
 ## Sistema de Cálculo de Notas
 
 ## Descripción
@@ -19,7 +20,7 @@ Entorno o IDE: Visual Studio
 
 <img width="1366" height="768" alt="cl1" src="https://github.com/user-attachments/assets/34ca9d7e-75e2-4ae4-9b77-d59d47336eba" />
 
-##El Calculo del promedio que saco el estudiante 
+## El Calculo del promedio que saco el estudiante 
 <img width="1366" height="768" alt="cl2" src="https://github.com/user-attachments/assets/3d2a494f-e539-4904-8086-1f1f52e4c03d" />
 
 
